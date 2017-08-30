@@ -2,4 +2,20 @@
 <resources>
     <string name="app_name">BusinessZXY</string>
     <string name="title">Quote Shoes</string>
+    <string name="adidas">Adidas</string>
+    <string name="classic">Classic</string>
+    <string name="clear">clean</string>
+    <string name="error_message_ck">You should check a genre</string>
+    <string name="error_message_quantity">Quantity must be greater than 0</string>
+    <string name="gender">Gender</string>
+    <string name="man">Man</string>
+    <string name="nike">Nike</string>
+    <string name="puma">Puma</string>
+    <string name="quantity">Quantity</string>
+    <string name="quote">Quote</string>
+    <string name="shoe">Shoe</string>
+    <string name="shoeType">Type of Shoe</string>
+    <string name="totalValue">Total Value</string>
+    <string name="trademark">Trademark</string>
+    <string name="woman">Woman</string>
 </resources>
