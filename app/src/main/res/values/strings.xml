@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">EmpresaZXY</string>
+    <string name="title">Cotizar Zapatos</string>
+    <string name="gender">Género</string>
+    <string name="man">Hombre</string>
+    <string name="woman">Mujer</string>
+    <string name="shoeType">Tipo de Zapato</string>
+    <string name="trademark">Marca</string>
+    <string name="quantity">Cantidad</string>
+    <string name="quote">Cotizar</string>
+    <string name="clear">Limpiar</string>
+    <string name="totalValue">Valor Total</string>
+    <string name="shoe">Zapatilla</string>
+    <string name="classic">Clásico</string>
+    <string-array name="shoeType">
+        <item>@string/shoe</item>
+        <item>@string/classic</item>
+    </string-array>
+    <string name="nike">Nike</string>
+    <string name="adidas">Adidas</string>
+    <string name="puma">Puma</string>
+    <string-array name="trademark">
+        <item>@string/nike</item>
+        <item>@string/adidas</item>
+        <item>@string/puma</item>
+    </string-array>
+    <string name="error_message_ck">Debe checkear un genero</string>
+    <string name="error_message_quantity">La cantidad debe ser mayor a 0</string>
+</resources>
